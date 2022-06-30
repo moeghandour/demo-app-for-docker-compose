@@ -13,7 +13,7 @@ redisurl = os.getenv('REDIS_URL')
 hostname = socket.gethostname()
 
 # Button Colour
-buttoncolour = "blue"
+buttoncolour = "green"
 button = './static/{}.png'.format(buttoncolour)
 
 
